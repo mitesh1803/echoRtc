@@ -33,8 +33,12 @@ webrtc/
 
 ## Architecture
 
-[Diagram](https://excalidraw.com/#json=IBeI8744jKVrr3bp76YDc,Zb_FMMrkviE7lPjt_ZIUwg)  
+[→ Diagram](https://excalidraw.com/#json=IBeI8744jKVrr3bp76YDc,Zb_FMMrkviE7lPjt_ZIUwg)  
 
+## Case Study
+
+A full technical breakdown — decisions, challenges, signaling flow, and learnings:
+[→ Read the case study](https://mitesh1803.github.io/echoRtc/case-study)
 
 ## Prerequisites
 
