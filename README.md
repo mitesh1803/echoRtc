@@ -38,7 +38,7 @@ webrtc/
 ## Case Study
 
 A full technical breakdown — decisions, challenges, signaling flow, and learnings:
-[→ Read the case study](https://mitesh1803.github.io/echoRtc/case-study)
+[→ Read the case study](https://mitesh1803.github.io/echoRtc)
 
 ## Prerequisites
 
